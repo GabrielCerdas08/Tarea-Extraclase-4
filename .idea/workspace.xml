@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e93dc0e6-384f-4513-bfe4-b8683e8945c7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/App/AATREE1 (1).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/.idea/dictionaries/Familia.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/androidTest/java/AATreeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/androidTest/java/com/example/aatree1/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/main/java/com/example/aatree1/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/app/src/test/java/com/example/aatree1/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/AATREE1/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lwrm1VCBJ9WC3fHHrMIEAH0KEc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/AATREE1" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e93dc0e6-384f-4513-bfe4-b8683e8945c7" name="Default Changelist" comment="" />
+      <created>1608519149205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608519149205</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2419" y="226" key="FileChooserDialogImpl" timestamp="1608519368923">
+      <screen x="1848" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2419" y="226" key="FileChooserDialogImpl/0.0.1848.984/1848.0.1920.1040@1848.0.1920.1040" timestamp="1608519368923" />
+  </component>
+</project>
